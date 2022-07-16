@@ -3,7 +3,7 @@
 - 거꾸로 읽는 SSL 이번에는 NLP 분야로 넘어 왔습니다! :)
 - 이번에는 Contrastive Learning이 적용된 NLP논문에 징중하여 역사적으로 의미가 있었던 논문을 살펴봅니다. 
 - 해당 논문에서 제시하는 메소드의 특징 그리고 역사적으로 평가되는 이유에 대해서 즐겁게 토론하는 시간을 가집니다. 
-- 우리가 매주 모이는 [zoom link](https://us02web.zoom.us/j/4705445325?pwd=Mk9UeklVU3hGN2p5YkhjaVNvc01hdz09)
+- 우리가 매주 모이는 [zoom link]
 
 ## 기간
 - TBD
