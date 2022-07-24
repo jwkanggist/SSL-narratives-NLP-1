@@ -7,7 +7,7 @@
 - 우리가 매주 모이는 [zoom link]
 
 ## 기간
-- TBD
+- 8/13 ~ 10/22 (10주간, 추석주간 제외)
 
 ## 발표 논문 및 순서
 > [google sheet](https://docs.google.com/spreadsheets/d/1P-pACgU9G0xq6M9Gufad-3tLUBavSMyUL0NIdd6TVH8/edit#gid=360530169)
