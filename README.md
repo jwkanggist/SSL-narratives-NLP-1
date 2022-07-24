@@ -36,6 +36,7 @@
 -- | -- | -- | --
 8 주차 | [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005) |   |  
 9 주차 | [SGPT: GPT Sentence Embeddings for Semantic Search](https://arxiv.org/abs/2202.08904) |   |  
+10 주차 | wrap-up | |
 
 ## 관련 링크
 - [거꾸로 읽는 self-supervised-learning 파트1 repo](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
