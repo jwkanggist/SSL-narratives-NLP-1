@@ -41,3 +41,4 @@
 
 ## 관련 링크
 - [거꾸로 읽는 self-supervised-learning 파트1 repo](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
+- [거꾸로 읽는 SSL 유튭 채널](https://www.youtube.com/channel/UCTwcUmKhqeBhG0rQHkPVP6Q)
