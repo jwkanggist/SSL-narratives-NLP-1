@@ -1,6 +1,6 @@
 # 거꾸로 읽는 self-supervised-learning 시즌2: Contrastive learning on NLP
 
-- [신청 Google form (8/6까지)](https://docs.google.com/forms/d/1kHKbNFMOPAo5ZxirlgoTr4L4eu1AeeEXIergfTyiLyg)
+- [마감] [신청 Google form (8/6까지)](https://docs.google.com/forms/d/1kHKbNFMOPAo5ZxirlgoTr4L4eu1AeeEXIergfTyiLyg)
 - 거꾸로 읽는 SSL 이번에는 NLP 분야로 넘어 왔습니다! :)
 - 이번에는 Contrastive Learning이 적용된 NLP논문에 중하여 역사적으로 의미가 있었던 논문을 살펴봅니다. 
 - 해당 논문에서 제시하는 메소드의 특징 그리고 역사적으로 평가되는 이유에 대해서 즐겁게 토론하는 시간을 가집니다. 
