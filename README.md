@@ -21,24 +21,24 @@
 | | paper title | 논문 발표
 -- | -- | -- 
 2 주차 | [ICT:  Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) | [조성국](https://github.com/seongkukcho) 
-3 주차 | [kNN-TAPT: Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://aclanthology.org/2020.acl-main.740/)	 |   [김동규](https://github.com/Dien-ES) 
-4 주차 | [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf)|   [김희은](https://github.com/hekim3434)
-5 주차 | [Contriever: Towards Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118) |  [박이삭](https://github.com/tentoto) 
+3 주차 | [kNN-TAPT: Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://aclanthology.org/2020.acl-main.740/)	 | [김동규](https://github.com/Dien-ES) 
+4 주차 | [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf)| [김희은](https://github.com/hekim3434)
+5 주차 | [Contriever: Towards Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118) | [박이삭](https://github.com/tentoto) 
 
 
 #### Hard negative mining
 | | paper title | 논문 발표 
 -- | -- | -- 
-6 주차 | [ANCE: Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)|   [김기범](https://github.com/isingmodel) 
-7 주차 | [coCondensor: Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/abs/2108.05540) |   [이유경](https://github.com/yukyunglee) 
-8 주차 | [Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval](https://aclanthology.org/2021.emnlp-main.492/) |   [이영수](https://github.com/haconedu) 
+6 주차 | [ANCE: Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)| [김기범](https://github.com/isingmodel) 
+7 주차 | [coCondensor: Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/abs/2108.05540) | 이유경](https://github.com/yukyunglee) 
+8 주차 | [Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval](https://aclanthology.org/2021.emnlp-main.492/) | [이영수](https://github.com/haconedu) 
 
 #### Contrastive learning with model scaling
 | | paper title | 논문 발표 
 -- | -- | -- 
-9 주차 | [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005) |   [이동형](https://github.com/abidan-korea)   
-10 주차 | [SGPT: GPT Sentence Embeddings for Semantic Search](https://arxiv.org/abs/2202.08904) |   [백혜림](https://github.com/rimiyeyo) 
-11 주차 | wrap-up |[강재욱](https://github.com/jwkanggist) 
+9 주차 | [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005) | [이동형](https://github.com/abidan-korea)   
+10 주차 | [SGPT: GPT Sentence Embeddings for Semantic Search](https://arxiv.org/abs/2202.08904) | [백혜림](https://github.com/rimiyeyo) 
+11 주차 | wrap-up | [강재욱](https://github.com/jwkanggist) 
 
 ## 관련 링크
 - [거꾸로 읽는 self-supervised-learning 파트1 repo](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
