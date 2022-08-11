@@ -30,7 +30,7 @@
 | | paper title | 논문 발표 
 -- | -- | -- 
 6 주차 | [ANCE: Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)| [김기범](https://github.com/isingmodel) 
-7 주차 | [coCondensor: Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/abs/2108.05540) | 이유경](https://github.com/yukyunglee) 
+7 주차 | [coCondensor: Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/abs/2108.05540) | [이유경](https://github.com/yukyunglee) 
 8 주차 | [Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval](https://aclanthology.org/2021.emnlp-main.492/) | [이영수](https://github.com/haconedu) 
 
 #### Contrastive learning with model scaling
