@@ -13,9 +13,9 @@
 > [google sheet](https://docs.google.com/spreadsheets/d/1P-pACgU9G0xq6M9Gufad-3tLUBavSMyUL0NIdd6TVH8/edit#gid=360530169)
 
 #### In-batch negative training
-| | paper title | 논문 발표 
+| | paper title | 논문 발표 | YouTube
 -- | -- | -- 
-1 주차 | [DPR: Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) | [김강민](https://github.com/) 
+1 주차 | [DPR: Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) | [김강민](https://github.com/) | [video](https://youtu.be/GE2Qzq1Xj6c)
 
 #### Positive mining
 | | paper title | 논문 발표
