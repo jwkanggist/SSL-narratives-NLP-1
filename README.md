@@ -14,7 +14,7 @@
 
 #### In-batch negative training
 | | paper title | 논문 발표 | YouTube
--- | -- | -- 
+-- | -- | -- | --
 1 주차 | [DPR: Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) | [김강민](https://github.com/) | [video](https://youtu.be/GE2Qzq1Xj6c)
 
 #### Positive mining
