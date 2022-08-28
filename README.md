@@ -21,7 +21,7 @@
 | | paper title | 논문 발표 | YouTube
 -- | -- | -- | --
 2 주차 | [ICT:  Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) | [조성국](https://github.com/seongkukcho) | [video](https://youtu.be/MypoV0xAn18)
-3 주차 | [kNN-TAPT: Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://aclanthology.org/2020.acl-main.740/)	 | [김동규](https://github.com/Dien-ES) 
+3 주차 | [kNN-TAPT: Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://aclanthology.org/2020.acl-main.740/)	 | [김동규](https://github.com/Dien-ES) | [video](https://youtu.be/2W_2vHamLYo)
 4 주차 | [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf)| [김희은](https://github.com/hekim3434)
 5 주차 | [Contriever: Towards Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118) | [박이삭](https://github.com/tentoto) 
 
