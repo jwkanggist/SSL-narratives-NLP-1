@@ -18,8 +18,8 @@
 1 주차 | [DPR: Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906) | [김강민](https://github.com/) | [video](https://youtu.be/GE2Qzq1Xj6c)
 
 #### Positive mining
-| | paper title | 논문 발표
--- | -- | -- 
+| | paper title | 논문 발표 | YouTube
+-- | -- | -- | --
 2 주차 | [ICT:  Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) | [조성국](https://github.com/seongkukcho) | [video](https://youtu.be/MypoV0xAn18)
 3 주차 | [kNN-TAPT: Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://aclanthology.org/2020.acl-main.740/)	 | [김동규](https://github.com/Dien-ES) 
 4 주차 | [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf)| [김희은](https://github.com/hekim3434)
