@@ -25,13 +25,13 @@
 4 주차 | [Condenser: a Pre-training Architecture for Dense Retrieval](https://aclanthology.org/2021.emnlp-main.75.pdf)| [김희은](https://github.com/hekim3434) | [video](https://youtu.be/TLG6sJcsJxA)
 5 주차 | [Contriever: Towards Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118) | [박이삭](https://github.com/tentoto) | [video](https://youtu.be/5r7iSQVK4xg)
 
-
 #### Hard negative mining
 | | paper title | 논문 발표  | YouTube 
 -- | -- | -- | --
 6 주차 | [ANCE: Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808)| [김기범](https://github.com/isingmodel) | [video](https://youtu.be/ZF9Q-jdb_rE)
 7 주차 | [coCondensor: Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/abs/2108.05540) | [이유경](https://github.com/yukyunglee) | [video](https://youtu.be/G7Yxz0_QkWk)
-8 주차 | [Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval](https://aclanthology.org/2021.emnlp-main.492/) | [이영수](https://github.com/haconedu) 
+8 주차 | [Multi-stage Training with Improved Negative Contrast for Neural Passage Retrieval](https://aclanthology.org/2021.emnlp-main.492/) | [이영수](https://github.com/haconedu) | [video](https://youtu.be/QgeOPfWj9fs
+)
 
 #### Contrastive learning with model scaling
 | | paper title | 논문 발표 
