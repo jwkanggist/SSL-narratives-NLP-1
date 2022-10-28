@@ -34,11 +34,10 @@
 
 
 #### Contrastive learning with model scaling
-| | paper title | 논문 발표 
--- | -- | -- 
-9 주차 | [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005) | [이동형](https://github.com/abidan-korea)   
-10 주차 | [SGPT: GPT Sentence Embeddings for Semantic Search](https://arxiv.org/abs/2202.08904) | [백혜림](https://github.com/rimiyeyo) 
-11 주차 | wrap-up | [강재욱](https://github.com/jwkanggist) 
+| | paper title | 논문 발표 | YouTube 
+-- | -- | -- | --
+9 주차 | [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005) | [이동형](https://github.com/abidan-korea)   | [video](https://youtu.be/aPcddRRDn2U)
+10 주차 | wrap-up | [강재욱](https://github.com/jwkanggist) |
 
 ## 관련 링크
 - [거꾸로 읽는 self-supervised-learning 파트1 repo](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
