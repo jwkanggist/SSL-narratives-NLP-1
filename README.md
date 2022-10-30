@@ -1,4 +1,4 @@
-# 거꾸로 읽는 self-supervised-learning 시즌2: Contrastive learning on NLP
+# [스터디 종료] 거꾸로 읽는 self-supervised-learning 시즌2: Contrastive learning on NLP
 
 - [마감] [신청 Google form (8/6까지)](https://docs.google.com/forms/d/1kHKbNFMOPAo5ZxirlgoTr4L4eu1AeeEXIergfTyiLyg)
 - 거꾸로 읽는 SSL 이번에는 NLP 분야로 넘어 왔습니다! :)
