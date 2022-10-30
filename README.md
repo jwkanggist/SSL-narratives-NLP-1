@@ -4,7 +4,7 @@
 - 거꾸로 읽는 SSL 이번에는 NLP 분야로 넘어 왔습니다! :)
 - 이번에는 Contrastive Learning이 적용된 NLP논문에 중하여 역사적으로 의미가 있었던 논문을 살펴봅니다. 
 - 해당 논문에서 제시하는 메소드의 특징 그리고 역사적으로 평가되는 이유에 대해서 즐겁게 토론하는 시간을 가집니다. 
-- 우리가 매주 모이는 [zoom link](https://navercorp.zoom.us/j/6120881255?pwd=Y0lWWkFMNmlJZGVlNG5haFVCVHViUT09)
+
 
 ## 기간
 - 8/13 ~ 10/29 (11주간, 추석주간 제외)
@@ -37,7 +37,7 @@
 | | paper title | 논문 발표 | YouTube 
 -- | -- | -- | --
 9 주차 | [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005) | [이동형](https://github.com/abidan-korea)   | [video](https://youtu.be/aPcddRRDn2U)
-10 주차 | wrap-up | [강재욱](https://github.com/jwkanggist) |
+10 주차 | wrap-up | [강재욱](https://github.com/jwkanggist) | [video](https://youtu.be/2q8krnv87wY)
 
 ## 관련 링크
 - [거꾸로 읽는 self-supervised-learning 파트1 repo](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
